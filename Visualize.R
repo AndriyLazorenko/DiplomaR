@@ -253,7 +253,7 @@ proportion <- function(x){
 pwm <- apply(forPWM, 2, proportion)
 #plotting and saving data
 pwm <- makePWM(pwm)
-png(paste(path,"/logoExp.png",sep = ""))
+png(paste(path,"/logoAct.png",sep = ""))
 logo <- seqLogo(pwm, ic.scale = F)
 dev.off()
 

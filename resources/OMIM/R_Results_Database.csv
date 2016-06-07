@@ -1,0 +1,20 @@
+Dinucleotides;Mathematical expectation of the frequency of occurrence of each dinucleotide;Absolute value of dinucleotide occurrence;Mathematical expectation of the mean dinucleotide number after SNP;Mathematical expectation of the mean dinucleotide number before SNP;Number of dinucleotides after SNP;Frequency of occurrence of given dinucleotide after SNP;Number of dinucleotides before SNP;Frequency of occurrence of given dinucleotide before SNP
+AA;0.070;7339090;=$G$20*C4;=$I$20*C4;57;=G4/$G$20;47;=I4/$I$20
+AC;0.055;5811953;=$G$20*C5;=$I$20*C5;20;=G5/$G$20;72;=I5/$I$20
+AG;0.073;7730154;=$G$20*C6;=$I$20*C6;42;=G6/$G$20;38;=I6/$I$20
+AT;0.079;8278569;=$G$20*C7;=$I$20*C7;30;=G7/$G$20;46;=I7/$I$20
+CA;0.080;8424519;=$G$20*C8;=$I$20*C8;44;=G8/$G$20;58;=I8/$I$20
+CC;0.049;5202100;=$G$20*C9;=$I$20*C9;37;=G9/$G$20;74;=I9/$I$20
+CG;0.012;1285119;=$G$20*C10;=$I$20*C10;10;=G10/$G$20;5;=I10/$I$20
+CT;0.078;8227110;=$G$20*C11;=$I$20*C11;30;=G11/$G$20;50;=I11/$I$20
+GA;0.063;6613393;=$G$20*C12;=$I$20*C12;53;=G12/$G$20;42;=I12/$I$20
+GC;0.050;5309575;=$G$20*C13;=$I$20*C13;44;=G13/$G$20;53;=I13/$I$20
+GG;0.047;4980596;=$G$20*C14;=$I$20*C14;48;=G14/$G$20;35;=I14/$I$20
+GT;0.055;5816066;=$G$20*C15;=$I$20*C15;42;=G15/$G$20;27;=I15/$I$20
+TA;0.067;7081892;=$G$20*C16;=$I$20*C16;70;=G16/$G$20;31;=I16/$I$20
+TC;0.066;6979547;=$G$20*C17;=$I$20*C17;44;=G17/$G$20;60;=I17/$I$20
+TG;0.079;8319315;=$G$20*C18;=$I$20*C18;79;=G18/$G$20;42;=I18/$I$20
+TT;0.074;7784886;=$G$20*C19;=$I$20*C19;58;=G19/$G$20;28;=I19/$I$20
+Total;1;105183884;708;708;708;=G20/$G$20;708;=I20/$I$20
+Double SNPs;?;?;?;?;0;=G21/C22;0;=I21/C22
+Total number of SNPs calculated;708

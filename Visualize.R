@@ -86,6 +86,7 @@ saveRDS(before, file=pathb)
 
 #Calculating statistical significance
 
+total <- as.numeric(Res[17,4])
 atotal <- as.numeric(Res[17,4])
 btotal <- as.numeric(Res[17,5])
 total[1:16] <- btotal
@@ -258,4 +259,4 @@ logo <- seqLogo(pwm, ic.scale = F)
 dev.off()
 
 #clear all data. Disable in case of debug
-#rm(list=ls())
+rm(list=ls())
